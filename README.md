@@ -18,9 +18,6 @@ I am Shashank Singh, currently in my 4th year undergraduate degree in CSE from S
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shashanksingh2002&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=shashanksingh2002&icon=2&color=1)](https://visitcount.itsvg.in)
 
