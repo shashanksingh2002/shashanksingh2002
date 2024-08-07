@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Shashank Singh, currently a Software Engineer at @kalvium. I have a keen interest in problem-solving and breaking our heads over solving a problem. If you have an idea and want to build it together reach out to me on Linkedin or Instagram and let's take this forward. I have a little experience in designing backend systems and I have worked on various technologies like Node, Express, Mongo, Postgres, Python, C++, and React.
+I am Shashank Singh, currently a Software Engineer @kalvium. I have a keen interest in problem-solving and breaking our heads over solving a problem. If you have an idea and want to build it together reach out to me on Linkedin or Instagram and let's take this forward. I have a little experience in designing backend systems and I have worked on various technologies like Node, Express, Mongo, Postgres, Python, C++, and React.
 
 
 ## 🌐 Socials:
